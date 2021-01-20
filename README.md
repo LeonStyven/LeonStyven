@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His/El
 - ⚡ Fun fact: improving the world
 
-#Blog Posts
+# Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
