@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Press Officer
 - 🌱 I’m currently learning Kotlin and Java
 - 📫 How to reach me: j.stca03@gmail.com
-- 😄 Pronouns: He/His/El
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: improving the world
 
 # Blog Posts
