@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I am currently working as a press officer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: j.stca03@gmail.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: improving the world
 
 # Blog Posts
 
