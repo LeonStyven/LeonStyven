@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I am currently working as a press officer
-- 🌱 I’m currently learning C#
+- 🔭 I'm currently working as a press officer
+- 🌱 I'm currently learning Phyton on my own and computer and software engineering in UPB
 - 📫 How to reach me: j.stca03@gmail.com
 - 😄 Pronouns: He/His/Him
 
