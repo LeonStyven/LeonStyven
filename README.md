@@ -21,5 +21,5 @@
 
 # Blog Posts
 
-* [Un mundo no tan conectado - Español](https://leonstyven.blogspot.com/2021/07/una-tierra-no-tan-conectada.html)
+* [Una tierra no tan conectada - Español](https://leonstyven.blogspot.com/2021/07/una-tierra-no-tan-conectada.html)
 * [Mi propio espacio en la red - Español](https://leonstyven.blogspot.com/2021/05/mi-propio-espacio-en-la-red.html)
