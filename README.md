@@ -14,7 +14,7 @@
 - SQL Database
 - Data structures and graphs
 
-#Social Media
+# Social Media
 - [LinkedIn](https://www.linkedin.com/in/leonstyven/)
 - [Instagram](https://www.instagram.com/leon._.styven/?hl=es-la)
 - [Twitter](https://twitter.com/leon_styven)
