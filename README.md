@@ -1,14 +1,23 @@
-### Hi there 👋, welcome to my web space :3
+### *Hi there!* 👋, Welcome to my own web space :3
 
-<!--
-**LeonStyven/LeonStyven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I'm currently working as a press officer
-- 🌱 I'm currently learning Phyton on my own and computer and software engineering in UPB
+- 🌱 I'm currently improving my JavaScript skills
+- 👨‍🎓 I am a 5th semester student of systems engineering and computer science at UPB
 - 📫 How to reach me: j.stca03@gmail.com
 - 😄 Pronouns: He/His/Him
+
+## Skills
+- Web Design using HTML, CSS and JS
+- Network infrastructure design
+- Creating desktop applications using JAVA
+- Development using agile methodologies like SCRUM
+- Management and design of cloud computing in AWS
+- SQL Database
+- Data structures and graphs
+
+#Social Media
+- [LinkedIn](https://www.linkedin.com/in/leonstyven/)
+- [Instagram](https://www.instagram.com/leon._.styven/?hl=es-la)
+- [Twitter](https://twitter.com/leon_styven)
 
 # Blog Posts
 
