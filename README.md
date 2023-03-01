@@ -1,7 +1,7 @@
 ### **Hi there!** 👋, Welcome to my own web space :3
 
 - 🌱 I'm currently improving my JavaScript skills
-- 👨‍🎓 I am a 5th semester student of systems engineering and computer science at UPB
+- 👨‍🎓 I am a 6th semester student of systems engineering and computer science at UPB
 - 📫 How to reach me: j.stca03@gmail.com
 - 😄 Pronouns: He/His/Him
 
