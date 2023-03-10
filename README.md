@@ -1,9 +1,16 @@
 ### **Hi there!** 👋, Welcome to my own web space :3
 
-- 🌱 I'm currently improving my JavaScript skills
+[![](https://img.shields.io/twitter/follow/s?color=c777c3&label=Follow%20me%20%40leon_styven&logo=twitter&logoColor=75edb2&style=for-the-badge)](https://twitter.com/leon_styven)
+[![](https://img.shields.io/twitter/follow/s?color=c777c3&label=Follow%20me%20%40leon._.styven&logo=instagram&logoColor=75edb2&style=for-the-badge)](https://www.instagram.com/leon._.styven)
+[![](https://img.shields.io/twitter/follow/s?color=c777c3&label=styven%20agudelo&logo=linkedin&logoColor=75edb2&style=for-the-badge)](https://www.linkedin.com/in/leonstyven/)
+
+
+- 🌱 I'm currently improving my Kotlin skills
 - 👨‍🎓 I am a 6th semester student of systems engineering and computer science at UPB
 - 📫 How to reach me: j.stca03@gmail.com
 - 😄 Pronouns: He/His/Him
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonstyven&show_icons=true&theme=cobalt)
 
 ## Skills
 - Web Design using HTML, CSS and JS
@@ -13,13 +20,3 @@
 - Management and design of cloud computing in AWS
 - SQL Database
 - Data structures and graphs
-
-# Social Media
-- [LinkedIn](https://www.linkedin.com/in/leonstyven/)
-- [Instagram](https://www.instagram.com/leon._.styven/?hl=es-la)
-- [Twitter](https://twitter.com/leon_styven)
-
-# Blog Posts
-
-* [Una tierra no tan conectada - Español](https://leonstyven.blogspot.com/2021/07/una-tierra-no-tan-conectada.html)
-* [Mi propio espacio en la red - Español](https://leonstyven.blogspot.com/2021/05/mi-propio-espacio-en-la-red.html)
