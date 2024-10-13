@@ -10,7 +10,12 @@
 - 📫 How to reach me: j.stca03@gmail.com
 - 😄 Pronouns: He/His/Him
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonStyven&show_icons=true&theme=tokyonight)
+<a href="https://github.com/LeonStyven/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonStyven&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/LeonStyven/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonStyven&langs_count=3&hide_title=true&hide_border=true" />
+</a>
 
 ## Skills
 - Web Design using HTML, CSS and JS
