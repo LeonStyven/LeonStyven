@@ -1,6 +1,5 @@
 ### **Hi there!** 👋, Welcome to my own web space :3
 
-[![](https://img.shields.io/twitter/follow/s?color=c777c3&label=Follow%20me%20%40leon_styven&logo=twitter&logoColor=75edb2&style=for-the-badge)](https://twitter.com/leon_styven)
 [![](https://img.shields.io/twitter/follow/s?color=c777c3&label=Follow%20me%20%40leon._.styven&logo=instagram&logoColor=75edb2&style=for-the-badge)](https://www.instagram.com/leon._.styven)
 [![](https://img.shields.io/twitter/follow/s?color=c777c3&label=styven%20agudelo&logo=linkedin&logoColor=75edb2&style=for-the-badge)](https://www.linkedin.com/in/leonstyven/)
 
