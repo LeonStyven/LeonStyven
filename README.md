@@ -12,8 +12,6 @@
 
 <img src="https://img.shields.io/badge/Platzi-13161c?style=for-the-badge&logo=platzi&logoColor=0ae98a" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonStyven&show_icons=true&theme=radical)
-
 ## Skills
 - 🖥️ Web Design using HTML, CSS, TypeScript and Angular
 - 🖌️ UX / UI Design and complemented with bussiness tools like Figma and Adobe XD
